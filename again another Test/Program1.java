@@ -19,4 +19,13 @@ public class Program1
     {
         System.out.print("Hello Git");
     }
+    
+    public int junk(int x)
+    {
+        
+        System.out.print("Hello Git");
+        return 5;       
+        
+        
+    }
 }
